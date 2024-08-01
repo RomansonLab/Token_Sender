@@ -6,4 +6,4 @@
 
 Настройки рассылаемого токена, RPC ии др. - в файле main.py
 
-PS: в качестве исходного взят код https://github.com/kukushkinace1/MEME_SEND/blob/main/main.py, который был немного переработан и актуализирован. 
+PS: в качестве исходного взят код https://github.com/kukushkinace1/MEME_SEND, который был немного переработан и актуализирован. 
